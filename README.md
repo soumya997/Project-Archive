@@ -1,7 +1,7 @@
 # Project-Archive
 
 # Current Resume Projects:
-|srl no|project name|tags|description|DP|code|Level|
+|srl no|project name|tags|description|Project Thumbnail|code|Level|
 |---|---|---|---|----|-----|----|
 |1.|Tensorflow-GBR Starfish Detection|`Object-Detection`, <br>`CV`,<br> `KAGGLE`|Trained different variants of yolov5, faster RCNN with various backbones on video data of underwater starfish. Performed ensemble, TTA, and tracking for postprocessing. 57th place solution for TF-GBR object detection Kaggle competition. Used Pytorch, Ultralytics, Timm, Opencv, Detectron2, etc.|<img width="1000" src="https://github.com/soumya997/kaggle-GBR-Experimentations/blob/master/media/inference.png">|[`CODE`](https://github.com/soumya997/kaggle-GBR-Experimentations)|**Lower Advance**|
 |2. |Sartorius - Cell Instance Segmentation|`Segmentation`,<br>`CV`,<br>`KAGGLE`|Trained different segmentation models like Unet with attention and residual block, Pretrained Unet, Mask RCNN, MS RCNN, Cellulose Unet on neuronal cells. Performed TTA, ensemble etc. Used Mmdetection, detectron2, tensorflow, pytorch, cellulose, W&B etc.|<img width="1000" src="https://i.imgur.com/oHPFaMh.png">|[`CODE`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)|**Lower Advance**|
