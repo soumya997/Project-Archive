@@ -1,6 +1,14 @@
 # Project-Archive
 
+# Current Resume Projects:
+|srl no|project name|tags|description|DP|code|Level|
+|---|---|---|---|----|-----|----|
+|1.|Tensorflow-GBR Starfish Detection|`Object-Detection`, `CV`, `KAGGLE`|Trained different variants of yolov5, faster RCNN with various backbones on video data of underwater starfish. Performed ensemble, TTA, and tracking for postprocessing. 57th place solution for TF-GBR object detection Kaggle competition. Used Pytorch, Ultralytics, Timm, Opencv, Detectron2, etc.|<img src="https://github.com/soumya997/kaggle-GBR-Experimentations/blob/master/media/inference.png">|[`CODE`](https://github.com/soumya997/kaggle-GBR-Experimentations)|**Lower Advance**|
+|2. |Sartorius - Cell Instance Segmentation|`Segmentation`,`CV`,`KAGGLE`|Trained different segmentation models like Unet with attention and residual block, Pretrained Unet, Mask RCNN, MS RCNN, Cellulose Unet on neuronal cells. Performed TTA, ensemble etc. Used Mmdetection, detectron2, tensorflow, pytorch, cellulose, W&B etc.|<img src="https://i.imgur.com/oHPFaMh.png">|[`CODE`](https://github.com/soumya997/kaggle-Sartorius-Experimentations)|**Lower Advance**|
+|3.|Depth-Estimation for AV|`CV`, `Depth-Estimation`,`AV`|Experimented with different models such as variants of Unet, attention based Unet, Unet++, Conditional GAN Pix2Pix on Pytorch. Used cityscape dataset, properly tracked via WandB.|<img src="https://user-images.githubusercontent.com/54326088/164057710-d7581a81-e01c-4ac6-a9c4-0d68ad70cc39.png">|[`CODE`](https://github.com/soumya997/Unet-Depth-Estimation-for-AV)|**Upper Intermediate**|
+|4.|Custom NER: Samsung NLP Challenge|`NLP`,`Custom-NER`, `KAGGLE`| Trained different model BERT, Bi-LSTM, spacy NER for custom entity recognition of 10 different intent text files which relates to Telephonic conversations.  Used Pytorch, Keras, Huggingface, spacy.Experimented with different models such as variants of Unet, attention based Unet, Unet++, Conditional GAN Pix2Pix on Pytorch. Used cityscape dataset, properly tracked via WandB.|<img src="https://i.imgur.com/UNe0wVD.jpg">|[`CODE`](https://github.com/MLXTREME/SamsungNLPChallenge)|**Upper Intermediate**|
 
+# Previous Resume Projects:
 |srl no|project name|tags|description|DP|code|Level|
 |---|---|---|---|----|-----|----|
 |1.|Resume Analyzer|`NLP`,`streamlit`,`resume`,`web scrapping`|• A web-app for recruiters, which can help to select candidates quickly.<br>• Worked on Data Preparation (web-scrap) + Resume Score Prediction + Resume Summarization + Model Deployment. Used Tensorflow, sklearn, Spacy, flask, streamlit.|<img src="https://i.imgur.com/V9hXoqu.png"> <br> [`VIDEO-DEMO`](https://youtu.be/u94F0HBiH9k)| [`CODE`](https://github.com/soumya997/Resume-analyzer)<br>[`DEMO`](https://share.streamlit.io/soumya997/resume-analyzer/main/Resume_analyzer_app.py)|**Intermediate**|
