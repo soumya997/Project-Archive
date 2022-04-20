@@ -1,5 +1,12 @@
 # Project-Archive
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54326088/164198823-3f3f2345-a321-42f3-b920-52f375a821d1.png">
+</p>
+
+# Howdy!
+This is the repo where I have listed few of my decent projects, I have sorted them in `beginner -> intermediate -> advance`. All of them are ML/DL related projects. Few of them are kaggle competition solutions. I mainly work on Computer Vision but also have dome few side projects in NLP and Music. Each project contains a basic description and their repository links alongwith. Please look into the repositories and share your reviews.
+
 # Current Resume Projects:
 |srl no|project name|tags|description|Project Thumbnail|code|Level|
 |---|---|---|---|----|-----|----|
